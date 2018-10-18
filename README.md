@@ -3,4 +3,4 @@
 
 ## Мои сайты
 
-[Урок 12]{https://romi411.github.io/firstSite/src/, "Первый сайт"}
+[Урок 12](https://romi411.github.io/firstSite/src/, "Первый сайт")
